@@ -11,4 +11,11 @@
 Потом:
 ``pkg install git``
 Потом:
+``git clone https://github.com/UIRRRRRRRRRRRRRR/Bloody-calc``
+Потом:
+``cd Bloody-calc``
+Потом:
+``python calc.py``
+И всё.
+По вопросам сюда: Ford(sab)#9788
 
