@@ -1,7 +1,6 @@
 import time
 import colorama
 import os
-from termcolor import colored
 from colorama import Fore, Style
 clear = lambda: os.system ("clear")
 clear()
